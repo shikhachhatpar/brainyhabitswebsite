@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Progress Tracking
     description                           : Watch your skills grow as you advance.
-    fontawesome_icon_name                 : fa-line-chart
+    fontawesome_icon_name                 : bar-chart
 
   - title                                 : Family Friendly
     description                           : Ideal for all ages and skill levels.
