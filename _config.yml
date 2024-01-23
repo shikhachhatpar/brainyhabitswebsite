@@ -45,11 +45,11 @@ features                                  :
 
   - title                                 : Progress Tracking
     description                           : Watch your skills grow as you advance.
-    fontawesome_icon_name                 : bar-chart
+    fontawesome_icon_name                 : star
 
   - title                                 : Family Friendly
     description                           : Ideal for all ages and skill levels.
-    fontawesome_icon_name                 : child
+    fontawesome_icon_name                 : users
 
   - title                                 : No Ads, Pure Learning
     description                           : Enjoy an uninterrupted learning experience.
