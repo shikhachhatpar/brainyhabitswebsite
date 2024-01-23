@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Daily Challenges
     description                           : 12 new words to explore every day.
-    fontawesome_icon_name                 : calendar-check-o
+    fontawesome_icon_name                 : calendar
     
   - title                                 : Audio Pronunciations
     description                           : Hear each word clearly to master its spelling.
@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Progress Tracking
     description                           : Watch your skills grow as you advance.
-    fontawesome_icon_name                 : line-chart
+    fontawesome_icon_name                 : fa-line-chart
 
   - title                                 : Family Friendly
     description                           : Ideal for all ages and skill levels.
